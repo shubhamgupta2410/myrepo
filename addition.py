@@ -4,7 +4,7 @@ Author : SHubham Gupta
 Date : 11 Dec 2019
 """
 
-a=10
-b=20
+a=int(input("enter first value :"))
+b=int(input("enter second value :"))
 c=a+b
 print("addition of a+b is ",c)
